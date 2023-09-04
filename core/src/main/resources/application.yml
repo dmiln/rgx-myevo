@@ -1,0 +1,3 @@
+service:
+  greet:
+    message: this message came from config
